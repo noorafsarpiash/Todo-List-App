@@ -157,7 +157,7 @@ body {
 
 .category:hover .options{
     opacity: 1;
-    visibility: v;
+    visibility: visible;
 }
 
 .category .toggle-btn{
